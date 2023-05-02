@@ -9,3 +9,5 @@ If you understood, type: "[🌎GPT] Thank you for allowing me to browse the inte
 * /gpt - Only **GPT** answers
 * /ib - Only **IB** answers
 * /stop - Makes **GPT** forget the instructions
+# Notes
+Please remember that this AI is still in beta!
